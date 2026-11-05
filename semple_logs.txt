@@ -1,0 +1,7 @@
+Nov  5 10:00:01 kali sshd[1234]: Failed password for root from 192.168.1.105 port 54321 ssh2
+Nov  5 10:00:05 kali sshd[1234]: Failed password for root from 192.168.1.105 port 54321 ssh2
+Nov  5 10:00:09 kali sshd[1234]: Failed password for root from 192.168.1.105 port 54321 ssh2
+Nov  5 10:05:12 kali sshd[1250]: Accepted password for omer from 10.0.2.15 port 43210 ssh2
+Nov  5 10:10:00 kali sshd[1280]: Invalid user ftpadmin from 10.0.2.50 port 33333 ssh2
+Nov  5 10:15:33 kali sudo:    omer : TTY=pts/0 ; PWD=/home/omer ; USER=root ; COMMAND=/usr/bin/cat /etc/shadow
+Nov  5 10:20:01 kali sshd[1300]: Failed password for admin from 203.0.113.45 port 55555 ssh2
